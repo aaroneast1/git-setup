@@ -3,9 +3,9 @@
 ```txt
 # This is Git's per-user configuration file.
 [user]
-        name = Aaron East
-        email = aaron@pactosystems.com 
-        signingkey = 76F5FB6AE03B9477
+        name = <Your name>
+        email = <email addres>
+        signingkey = <signin key>
 [alias]
         a = add --all
         cl = clone
