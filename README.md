@@ -1,5 +1,7 @@
 # How to setup git locally
 
+A set of steps and configuration to get your git environment all setup.
+
 ```txt
 # This is Git's per-user configuration file.
 [user]
